@@ -1,0 +1,4 @@
+Withdraw,20000
+Deposit,-500
+Transfer,100
+Deposit,abc
